@@ -1,9 +1,4 @@
 <div data-importer="image" align="center">
-
-  HELLLO WELT!!!
-  
-  İch bin Jr Developer
-  
   <img data-importer="image" height="200" src="https://media1.tenor.com/m/zpnDNzectSsAAAAC/freedom.gif""  />
 </div>
 
