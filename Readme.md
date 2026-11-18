@@ -25,10 +25,13 @@
 
 **Currently learning:** Responsive layouts and working with data in JavaScript.
 
+<p align="center">
+  <img src="./assets/how-i-build.svg" alt="How I build: sketch the layout, build one piece, then test it in the browser." />
+</p>
+
 ## GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/stats-output/stats.svg" alt="Kadir’s GitHub activity statistics" /><br />
   <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/languages-output/languages.svg" alt="Language distribution across my repositories" />
 </p>
 
