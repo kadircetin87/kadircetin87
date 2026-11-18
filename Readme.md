@@ -1,45 +1,41 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/zpnDNzectSsAAAAC/freedom.gif""  />
-</div>
+<h1 align="center">Hi, I’m Kadir 👋</h1>
 
-###
+<p align="center">
+  I’m learning frontend development with HTML, CSS, and JavaScript.<br />
+  I build things step by step. If I can’t explain a line of code in my own words, I take another look.
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/zpnDNzectSsAAAAC/freedom.gif" height="200" alt="Freedom animation" />
+</p>
 
-###
+## Toolbox
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/snake-output/snake.svg" alt="Snake animation" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows" />
+</p>
 
-###
+**Currently learning:** Responsive layouts and working with data in JavaScript.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## GitHub activity
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/stats-output/stats.svg" alt="Kadir’s GitHub activity statistics" /><br />
+  <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/languages-output/languages.svg" alt="Language distribution across my repositories" />
+</p>
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/kad%C3%ACr-cetin-826a6b385/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/kadircetin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kadircetin87/kadircetin87/snake-output/snake.svg" width="100%" alt="Snake moving through my GitHub contribution graph" />
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/kad%C3%ACr-cetin-826a6b385/">Connect with me on LinkedIn</a>
+</p>
